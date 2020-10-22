@@ -1,8 +1,9 @@
 package main
 
 import (
-	"amelitextile/cmd"
 	"flag"
+
+	"github.com/SergioBravo/amelitextile/cmd/apiserver/cmd"
 )
 
 func main() {
